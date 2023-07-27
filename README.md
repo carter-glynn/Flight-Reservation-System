@@ -1,4 +1,4 @@
-# Flight-Reservation-System  *unfinished*
+# *unfinished*Flight-Reservation-System  
 
 ## Goal
  - Demonstrate GUI knowledge
@@ -23,7 +23,7 @@ The program allows the sales person to:<br>
   - Displaying the passenger details, discussed above, in the text boxes;
   - Enabling a “cancel seat” button. Clicking this button results in canceling the reservation, removing the passenger from the passenger list (list box), and making the seat available again;
   - Enabling an “update” button to allow updating the passenger details. Please perform the name and postal code validations mentioned earlier prior to allowing an update;
-3. [3 points] See the list of passengers;
+3. See the list of passengers;
  - Clicking on a reserved seat selects (highlights) the passenger name in the list and displays the passenger
 details (name etc.), in the text boxes;
  - The list needs to be sorted by last name;
