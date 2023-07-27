@@ -1,4 +1,4 @@
-# *unfinished*Flight-Reservation-System  
+# *unfinished* Flight-Reservation-System  
 
 ## Goal
  - Demonstrate GUI knowledge
