@@ -9,6 +9,8 @@
 Using C#, create a GUI based program to be used by a sales person at a travel agency. <br>
 The program allows the sales person to:<br>
 
+![Flight System GUI](flight-reg.png)
+
 1. See the layout of seats
  - You can design your own layout on the GUI as long as you have a minimum of 12 seats;
  - Each seat has its unique number displayed on the GUI ;
